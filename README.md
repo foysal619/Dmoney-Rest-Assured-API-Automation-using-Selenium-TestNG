@@ -1,12 +1,12 @@
 # Dmoney-Rest-Assured-API-Automation-using-Selenium-TestNG
-This repository consists of API Automation using Rest Assured, Selenium, TestNG, and Java. I have automated the user creation for Customer and Agent, also some transaction-related operations have been done, ex- Send Money, Agent To Customer Deposit, Money Withdrawal, Customer Payment, etc. Also, assertion and negative test cases have been cover for every test cases
+This repository consists of API Automation using Rest Assured, Selenium, TestNG, and Java. I have automated the user creation for Customer and Agent, also some transaction-related operations have been done, ex- Send Money, Agent To Customer Deposit, Money Withdrawal, Customer Payment, etc. Also, assertion and negative test cases have been covered for every test case.
 
 ## How to run this project
 
 - Clone This project
 - open build.gradle file in IntelliJ IDEA
 - Type gradle clean test in Terminal and Hit Enter
-- Then Hit the follwing command in terminal
+- Then Hit the following command in terminal
 
 ```bash
   allure generate allure-results --clean -o allure-report
