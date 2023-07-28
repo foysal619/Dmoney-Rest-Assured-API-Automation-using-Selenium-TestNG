@@ -7,9 +7,7 @@ Send Money,Agent To Customer Deposit,Money Withdrwal etc.
 I have done Assertion on Every Assertion Point and also Cover Negative test Cases.
 
 
-## Author
 
-- [@Jamil-kawsher1](https://www.github.com/Jamil-kawsher1)
 
 
 
