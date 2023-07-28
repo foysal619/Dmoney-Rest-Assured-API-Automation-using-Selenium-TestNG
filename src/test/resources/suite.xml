@@ -1,0 +1,14 @@
+
+
+<suite name="DMoney Rest Assured API Automation">
+    <test name="User Test Runner">
+        <classes>
+            <class name="testRunner.UserTestRunner"/>
+        </classes>
+    </test>
+    <test name="Transaction test runner">
+        <classes>
+            <class name="testRunner.TransactionTestRunner"/>
+        </classes>
+    </test>
+</suite>

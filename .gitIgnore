@@ -1,0 +1,10 @@
+allure-report
+src/main
+.gradle
+.idea
+build
+gradle
+allure-results
+allure-report
+gradlew
+gradlew.bat
