@@ -58,9 +58,9 @@ Hints:
 16. Check that it is not possible to do a payment from the customer 2 account to an invalid agent account
 17. Check that it is possible to do a successful payment from the customer 2 account to a valid agent account
 18. Check that it is not possible to check customer 2 account balance with the wrong method
-19. 18. Check that it is possible to successfully check customer 2 account balance with the correct method
+19. Check that it is possible to successfully check customer 2 account balance with the correct method
  
-# Allure report Screenshots
+# Allure Report
 ![rest-assured 1](https://github.com/foysal619/Dmoney-Rest-Assured-API-Automation-using-Selenium-TestNG/assets/61048879/48fde995-94e7-4e36-8e2f-70904ab83015)
 ![rest-assured 2](https://github.com/foysal619/Dmoney-Rest-Assured-API-Automation-using-Selenium-TestNG/assets/61048879/ec4ac2fa-d165-478e-aaef-077d2e6fcc25)
 ![rest-assured 3](https://github.com/foysal619/Dmoney-Rest-Assured-API-Automation-using-Selenium-TestNG/assets/61048879/71b6db0c-ab9e-410d-a37d-23f5a1a3025b)
